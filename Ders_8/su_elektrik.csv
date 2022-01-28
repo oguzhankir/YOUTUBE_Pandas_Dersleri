@@ -1,0 +1,30 @@
+﻿KULLANICI_ID;AD;SOYAD;ŞEHİR;SU_FATURASI;ELEKTRİK_FATURASI
+1;Delal Abdullatif;Abzak;İSTANBUL;356;124
+2;Fatma Özlem;Acar;İSTANBUL;214;84
+3;Özde;Acarkan;BURSA;64;164
+4;Atahan;Adanır;ANKARA;674;341
+5;Hacı Mehmet;Adıgüzel;ADANA;245;945
+6;Mükerrem Zeynep;Ağca;ESKİŞEHİR;314;21
+7;Bestami;Ağırağaç;KIRKLARELİ;142;347
+8;Aykanat;Ağıroğlu;ANKARA;64;546
+9;Şennur;Ağnar;ANKARA;847;240
+10;Tutkum;Ahmadı Asl;İZMİR;64;72
+11;Mügenur;Ahmet;SAMSUN;98;43
+12;Sevinç;Ak;TRABZON;57;720
+13;Kayıhan Nedim;Akarcalı;RİZE;20;154
+14;Lemi;Akarçay;BURSA;12;341
+15;Cihan;Akarpınar;İSTANBUL;47;185
+16;Rafi;Akaş;İSTANBUL;67;245
+17;Mehmetcan;Akay;ADANA;54;385
+18;Nuhaydar;Akbilmez;EDİRNE;124;641
+19;Emine Münevver;Akca;DİYARBAKIR;324;64
+20;Servet;Akçagunay;TUNCELİ;41;74
+21;Çilem;Akçay;KONYA;74;51
+22;Recep Ali Samet;Akdoğan;KIRKLARELİ;245;547
+90;Almina;Avcı Özsoy;SAMSUN;356;124
+91;Saime;Avıandı;TRABZON;214;84
+92;Nehar;Avşar;RİZE;64;164
+93;Kaan Muharrem;Ay;BURSA;674;341
+94;Murat Kaan;Ayanoglu;İSTANBUL;245;945
+95;Murat Sinan;Ayaz;İSTANBUL;314;21
+96;Ateş;Aycı;ADANA;142;347
